@@ -1,7 +1,8 @@
 # Hi, I'm Yitayish Lema 👋
 
-Full-stack developer building production systems for hospitals, courts, research institutions, and transport operators — mostly with **Laravel** on the backend and **React** on the frontend, plus **WordPress** for content-driven sites.
+Full-stack developer building production systems for hospitals, courts, research institutions, transport operators, and educational platforms — mostly with **Laravel** on the backend and **React** on the frontend, plus **WordPress** for content-driven sites.
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -21,8 +22,11 @@ Full-stack developer building production systems for hospitals, courts, research
 ![AdminLTE](https://img.shields.io/badge/AdminLTE-3C8DBC?style=flat-square&logo=adminlte&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
 
-### CMS & Tools
+### CMS & Platforms
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Moodle](https://img.shields.io/badge/Moodle-F98012?style=flat-square&logo=moodle&logoColor=white)
+
+### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Composer](https://img.shields.io/badge/Composer-885630?style=flat-square&logo=composer&logoColor=white)
@@ -48,6 +52,12 @@ Case tracking, hearing schedules, judge and lawyer workflows, document managemen
 ### 🎓 Research Management Systems
 Proposal submission, ethical review workflows, grant project tracking, publication management, and analytics dashboards for research offices.
 
+### 📝 Exam Platforms for Students
+Online exam delivery with question banks, timed sessions, auto-grading, result analytics, and student performance dashboards — designed for schools and training institutions.
+
+### 🎒 Learning Management (Moodle)
+Experience configuring, customizing, and supporting Moodle LMS deployments — course setup, quiz and assignment workflows, user enrolment, role management, and institutional reporting.
+
 ### 🚌 Bus Ticketing Systems
 Route management, seat booking, ticket issuance, agent tracking, and daily sales reports — with offline-capable interfaces for ticket counters.
 
@@ -62,18 +72,19 @@ Custom themes and plugins, business sites, and content-driven platforms for orga
 - Building admin dashboards with **Laravel**, **Livewire**, and **AdminLTE**.
 - Exploring **Dart** for mobile applications.
 
-
+---
 
 ## 📌 Highlights
 
 - **Full-stack ownership** — database design → backend APIs → frontend UI → deployment.
-- **Domain experience** in healthcare, legal, research, and transport sectors.
+- **Domain experience** in healthcare, legal, research, education, and transport sectors.
+- **Custom LMS + Moodle** — building bespoke exam platforms and supporting Moodle-based institutional e-learning.
 - **Comfortable with legacy-to-modern migrations** — taking procedural PHP and rewriting it as testable, structured Laravel code.
 - **WordPress + custom Laravel** — knowing when to use a CMS and when to build a bespoke system.
 
-
+---
 
 ## 📫 Get in Touch
 
-[!Yitulema@gmail.com(https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Yitulema@gmail.com](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/newayt)
+[![Email](https://img.shields.io/badge/Email-Yitulema%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Yitulema@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-newayt-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/newayt)
