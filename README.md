@@ -6,23 +6,6 @@ Full-stack developer building production systems for hospitals, courts, research
 
 ---
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/yitayish">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=yitayish&show_icons=true&theme=tokyonight&hide_title=true" />
-</a>
-<a href="https://github.com/yitayish">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yitayish&layout=compact&theme=tokyonight&hide_title=true" />
-</a>
-
-<br>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yitayish&theme=tokyonight&hide_border=true)](https://github.com/yitayish)
-
-[![Yitayish's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yitayish&theme=github-compact)](https://github.com/yitayish)
-
----
-
 ## 🛠️ Tech Stack
 
 ### Languages
