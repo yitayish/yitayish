@@ -1,4 +1,4 @@
-# Hi, I'm [Yitayish Lema] 👋
+# Hi, I'm Yitayish Lema 👋
 
 Full-stack developer building production systems for hospitals, courts, research institutions, and transport operators — mostly with **Laravel** on the backend and **React** on the frontend, plus **WordPress** for content-driven sites.
 
@@ -75,5 +75,5 @@ Custom themes and plugins, business sites, and content-driven platforms for orga
 
 ## 📫 Get in Touch
 
-[![Yitulema@gmail.com](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
+[!Yitulema@gmail.com(https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
 [![Yitulema@gmail.com](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/newayt)
