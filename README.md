@@ -87,4 +87,4 @@ Custom themes and plugins, business sites, and content-driven platforms for orga
 ## 📫 Get in Touch
 
 [![Email](https://img.shields.io/badge/Email-Yitulema%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Yitulema@gmail.com)
-[![GitHub](https://github.com/yitayish)
+[![GitHub](https://img.shields.io/badge/GitHub-yitayish-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yitayish)
